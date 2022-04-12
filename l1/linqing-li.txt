@@ -1,0 +1,5 @@
+1.I use my own desktop, so my GPU is RTX3060ti. And the total thread blocks are (1*10000-0.5)/512+1 = 21
+
+2.No they don't
+
+3.add the thread block size.
